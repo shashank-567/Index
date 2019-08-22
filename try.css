@@ -1,0 +1,19 @@
+h1{
+	color: #999074;
+	border-color: rgba(10,150,200,0.5);
+	border-width: 2px;
+	border-style: solid;
+}
+h3{
+	color: rgba(124,150,200,0.8);
+	background:currentColor;
+}
+
+li{
+	color: rgb(240,255,0);
+	border: 2px dashed rgba(10,150,200,0.5);
+}
+h2{
+	color: rgba(200,150,200,0.5);;
+}
+
